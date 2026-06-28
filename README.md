@@ -109,7 +109,7 @@ Ensure these files are in your working directory:
 2. Go to the **Logger++** tab → **Options**
 3. Under **CSV Exporter**, select fields in this exact order:
 
-   ![Logger++ CSV Export Configuration](screenshots/screenshot2.png)
+   ![Logger++ CSV Export Configuration](screenshot2.png)
 
    - `Request.Body`
    - `Request.Method`
@@ -143,7 +143,7 @@ CONFIDENCE: 94.50%
 
 You should see live output like this in your terminal:
 
-![ML IDS Terminal Output](screenshots/screenshot1.png)
+![ML IDS Terminal Output](screenshot1.png)
 
 ### Terminal 2: Start the Dashboard
 
@@ -160,7 +160,7 @@ Open your browser to:
 
 The dashboard displays live attack statistics and recent events:
 
-![Streamlit Dashboard](screenshots/screenshot3.png)
+![Streamlit Dashboard](screenshot3.png)
 
 The dashboard shows:
 - **Latest Event** — most recent prediction with confidence
